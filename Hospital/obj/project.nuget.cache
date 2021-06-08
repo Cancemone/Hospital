@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIet0QaKYsi0ujSr6TDufkcBAd3etRvp6sT6no7mAHfm9HIpM05djS7KdOYRPuSAcrq6iJLTPb0tmgAyZ1NxWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Demid\\source\\repos\\Hospital\\Hospital\\Hospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Demid\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

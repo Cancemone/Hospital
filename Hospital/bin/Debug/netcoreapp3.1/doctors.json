@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "111",
+    "Surname": "111",
+    "Patronymic": "111",
+    "Department": "111",
+    "Paсients": [
+      {
+        "Guid": "2b31fdd4-cb30-422a-9b56-80124610fcc7",
+        "Name": "Клименюк",
+        "Surname": "Едуард",
+        "Patronymic": "Сергеевич",
+        "Diagnosis": "Ничего",
+        "Department": "Ortopedical",
+        "Сhamber": 4,
+        "Medicine": [
+          "Ничего"
+        ],
+        "Entrance": "2021-06-04T22:28:18.6926197+03:00",
+        "Discharge": "0001-01-01T00:00:00"
+      },
+      {
+        "Guid": "8ae55637-6ee0-4079-98fd-94b09fed76ea",
+        "Name": "Внуков",
+        "Surname": "Демид",
+        "Patronymic": "Сергеевич",
+        "Diagnosis": "Плоскостопие",
+        "Department": "Orthopedic",
+        "Сhamber": 8,
+        "Medicine": [
+          "Stelki"
+        ],
+        "Entrance": "2021-06-04T22:29:09.5802898+03:00",
+        "Discharge": "0001-01-01T00:00:00"
+      }
+    ],
+    "Login": "111",
+    "Password": "1111"
+  }
+]
